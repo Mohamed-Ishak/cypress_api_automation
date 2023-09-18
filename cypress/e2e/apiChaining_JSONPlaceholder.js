@@ -1,4 +1,4 @@
-describe('',()=>{
+describe('Chaining Reqquest',()=>{
     it('Getting all the posts',()=>{
 cy.request({
     method:'GET',
