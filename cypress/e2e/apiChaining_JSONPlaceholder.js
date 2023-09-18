@@ -1,4 +1,4 @@
-describe('Chaining Request',()=>{
+describe('Chaining Request E2E Scenario',()=>{
     it('Getting all the posts',()=>{
 cy.request({
     method:'GET',
